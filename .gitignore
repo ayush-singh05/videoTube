@@ -78,7 +78,7 @@ web_modules/
 .env.local
 
 
-src/models/
+
 src/routes/
 src/utils/
 src/controllers/
